@@ -1,0 +1,58 @@
+body {
+    font-size: 13px;
+}
+
+.logo-img{
+    height: 40px;
+    width: 80px;
+
+}
+
+.menubar{
+    display: flex;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 10px;
+}
+
+.menu-3{
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    border-style: solid;
+    padding: 5px;
+}
+
+.menu-1{
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+.menu-2{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 18px;
+    justify-content: center;
+}
+.menu-4{
+    display: flex;
+    margin-top: 18px;
+}
+
+.input-field{
+    width: 800px;
+    height: 40px;
+}
+
+button{
+    border-style: none;
+    background-color: transparent;
+}
+
+.category-label:focus{
+    outline: none;
+}

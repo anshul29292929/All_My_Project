@@ -1,0 +1,50 @@
+.weather_heading{
+    text-align: center;
+    font-size: 80px;
+}
+
+.anshul{
+    width: max-content;
+    margin: auto;
+}
+
+.city-name{
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    height: 60px;
+    margin-left: 80px;
+    width: 800px;
+    font-size: 50px;
+}
+
+.gettemp{
+    border-width: 3px;
+    height: 60px;
+    margin-left: 80px;
+    width: 200px;
+    font-size: 30px;
+}
+
+.gettemp:active{
+    color: #fff;
+    background-color: blue;
+    border-width: 5px;
+    border-color: black;
+}
+
+.return-window{
+    font-size: 40px;
+    margin-top: 30px;
+}
+
+.label-r{
+    margin-top: 20px;
+}
+
+.divelement{
+    margin-top: 40px;
+    margin-left: 300px;
+    margin: auto;
+    text-align: center;
+}

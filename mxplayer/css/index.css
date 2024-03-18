@@ -1,0 +1,113 @@
+.main-header{
+    position: relative;
+    display: flex;
+    background-color: black;
+    box-shadow: inset 10px;
+    height: 45px;
+}
+.header-div-1 img{
+    height: 40px;
+}
+
+.header-div-1{
+    margin-left: 45px;
+    margin-right: 40px;
+    margin-top: 5px;
+}
+
+.header-div-2{
+    width: 55%;
+    margin-left: 20px;
+}
+
+.header-ul-1{
+    margin-top: 15px;
+    display: flex;
+    list-style: none;
+}
+
+.header-list-items{
+    display: flex;
+}
+
+.header-ul-2{
+    display: flex;
+    list-style: none;
+}
+
+.header-list-items{
+    margin-right: 30px;
+}
+
+.header-div-4{
+    margin-top: 15px;
+}
+
+.header-div-3{
+
+    margin-top: 10px;
+}
+
+
+.header-list-items-2{
+    margin-right: 25px;
+}
+
+.header-ul-1 a{
+    font-size: 14px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    
+}
+.header-ul-4 a{
+    font-size: 14px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    
+}
+
+.header-ul-3 a{
+    font-size: 14px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    
+}
+
+.button-ul-2 {
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+
+.button-ul-2 a{
+    font-size: 10px;
+}
+
+
+.button-ul-2{
+    border-radius: 50px;
+    background-color: rgb(126, 121, 121);
+    margin-bottom: 10px;
+}
+
+.header-ul-1 a:hover {
+    color: rgb(39, 81, 233);
+  }
+  .header-ul-2 a:hover {
+    color: rgb(39, 81, 233);
+  }
+  .header-ul-3 a:hover {
+    color: rgb(39, 81, 233);
+  }
+
+.header-ul-2 a{
+    color: rgb(255, 255, 255);
+}
+
+.header-div-ul-1 .fas{
+    color: rgb(68, 65, 230);
+}
+
+.button-ul-2 a:hover{
+    color: white;
+}
+
